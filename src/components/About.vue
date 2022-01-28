@@ -73,6 +73,7 @@ export default {
   }
 
   .social-links a {
+
     width: 80px;
     height: 80px;
     text-align: center;
